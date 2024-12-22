@@ -1,17 +1,17 @@
-# TODO-List
+# <span style="color: #00FFFF;">TODO-List</span> 📚✍️
 this is my TODO list tracker.
 
 
-# Ongoing
+# <span style="color: #00FFFF;">Ongoing </span>⏳
 * (Read) Reading *"Bootstrapping Microservices with Docker, Kubernetes, & Terraform: A project-based guide (2021)"* by **Ashley Davis**.
 * (Course) Completing my Course *"Financial Markets"* on <a href="https://www.coursera.org/learn/financial-markets-global" target="_blank">Coursera</a> by **Prof. Robert Shiller**
 
-# Later
+# <span style="color: #00FFFF;">Later </span>🔜 📅
 
-# Completed
-## Read 📖
+# <span style="color: #00FFFF;">Completed </span>✅
+## <span style="color: #87CEEB;">Read </span>📖
 
-## Courses 🎓
+## <span style="color: #87CEEB;">Courses </span>🎓
 * CSS Fundamental by *Sololearn*
 * Diploma in Sales Management by *Allison Course*
 * HTML Fundamental by *Sololearn*
@@ -22,9 +22,9 @@ this is my TODO list tracker.
 * Kepelatihan Kerja BPS by *Badan Pusat Statistik*
 * Jasa Service Perbaikan Pada Komputer by *Karirmu*
 
-## Projects 🛠️🚀
-### [Done] AI Chatbots (Ongoing)
-*This my self-project, for I use & maintaining this project myself  ;)* 
+## <span style="color: #87CEEB;">Projects </span>🛠️🚀
+### [<span style="color:rgb(8, 241, 8);">Done</span>] <span style="color:rgb(226, 248, 243);">AI Chatbots (v.0)</span>
+*This is a self-project that I use & maintaining this alone ;)* 
 
     Main Key Features:
     * Knowledge retrieval from database
